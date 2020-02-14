@@ -1,17 +1,17 @@
-# CAFE School: Data Science Course
+# Data Science Course - IMIM
 
-The 1st CAFE School will be held from November 13th to 22nd 2019 and organized by Centre de Recerca Matemàtica. The School will start with the Copernicus Climate Data Store training event on 13th November in Barcelona. From 14th, the venue will be URH Sitges Playa Hotel. Sitges is located about 35 kilometres southwest of Barcelona and it is famous for its international Film Festival and Carnival. Located between the Garraf Massif and the Mediterranean sea, it is known for its beaches, nightspots, and historical sites.
 
-The core of this school consists in a series of interdisciplinary courses presented by members of CAFE, which are experts in their fields, as well as external invited lecturers, who will complement the network’s training capacity. The working method will be a series of master and practical classes.
+he working method will be a series of master and practical classes.
 
-This is the repository of the lectures corresponding to **Data Science** course, that will be held from Thursday 14th to Friday 15th, by Prof. Oriol Pujol, Prof. Santi Seguí and Prof. Jordi Vitrià (Universitat de Barcelona).
+This is the repository of the lectures corresponding to **Data Science** course, that will be held from Thursday Feb 25th to March 10th, by Prof. Oriol Pujol, Prof. Santi Seguí and Prof. Jordi Vitrià (Universitat de Barcelona). The working method will be a series of master and practical classes.
+
 
 ## Syllabus
-+ Introduction to Data Science
-+ Python for Data Science
-+ Machine learning: methodology.
-+ Machine learning: methods (LR, SVM, RT)
-+ Machine learning: methods (Deep Learning)
++ Feb 25th: Introduction to Data Science + Python for Data Science
++ Feb 26th: Machine Learning Methodology: Basic concepts, model evaluation, optimization.
++ March 3rd: Machine Learning Models:Supervised methods (Knn, Logistic regression, SVM, Random Forest)
++ March 4th: Machine Learning Models: Deep Learning
++ March 10th: Advanced techniques: Autoencoders, non-supervised learning, explainability, causality.
 
 ## Prerequisites
 
