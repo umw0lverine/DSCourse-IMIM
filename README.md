@@ -1,8 +1,5 @@
 # Data Science Course - IMIM
 
-
-he working method will be a series of master and practical classes.
-
 This is the repository of the lectures corresponding to **Data Science** course, that will be held from Thursday Feb 25th to March 10th, by Prof. Oriol Pujol, Prof. Santi Seguí and Prof. Jordi Vitrià (Universitat de Barcelona). The working method will be a series of master and practical classes.
 
 
