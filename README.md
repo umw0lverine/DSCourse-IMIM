@@ -20,7 +20,7 @@ This is the repository of the lectures corresponding to **Data Science** course,
 
 Before the first class you need to:
 
-+ Install Anaconda Python 3.7 version: Anaconda Distribution is a free, easy-to-install package manager, environment manager and Python distribution with a collection of over 720 open source packages with free community support.
++ Install Anaconda Python 3.7 version: Anaconda Distribution is a free, easy-to-install package manager, environment manager and Python distribution with a collection of over 720 open source packages with free community support. Download here: https://www.anaconda.com/
 + Have a (free) account at GitHub: GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
 + Run in a teminal: `conda install -c conda-forge tensorflow==1.15.0`
 
